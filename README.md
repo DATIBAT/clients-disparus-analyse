@@ -105,4 +105,12 @@ Python · **NumPy** · **pandas** · **Matplotlib** · **Seaborn** · Jupyter / 
 
 ## 📬 Contact
 
-Ismail [NOM] — [lien LinkedIn] — [e-mail professionnel]
+**DATIBAT — Data Analytics & Business Intelligence**
+
+🌐 Site web : https://datibat.com
+
+💼 LinkedIn : https://www.linkedin.com/company/datibat/
+
+📘 Facebook : https://www.facebook.com/profile.php?id=61594630675017
+
+📍 Maroc
